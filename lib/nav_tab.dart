@@ -1,0 +1,1 @@
+enum NavTab { home, settings }
